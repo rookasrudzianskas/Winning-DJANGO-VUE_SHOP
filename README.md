@@ -1,2 +1,2 @@
-# Winning-DJANGO-VUE_SHOP
-This is affiliate shop template
+# DJacket-Shop
+This is jacket shop wrote in Django and VUE JS
