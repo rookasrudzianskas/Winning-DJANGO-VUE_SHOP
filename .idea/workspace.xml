@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="378d11a2-f549-47f3-b924-c642c5f5c338" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue" beforeDir="false" afterPath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djackets_django" beforeDir="false" afterPath="$PROJECT_DIR$/DJACKETS_SHOP/djackets_django" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djackets_vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618838887878</updated>
-      <workItem from="1618838906222" duration="5845000" />
+      <workItem from="1618838906222" duration="6498000" />
     </task>
     <servers />
   </component>
