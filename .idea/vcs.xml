@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DJACKETS_SHOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DJACKETS_SHOP/djackets_django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DJACKETS_SHOP/djackets_vue" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/djackets_django" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/djackets_vue" vcs="Git" />
   </component>
